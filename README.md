@@ -1,0 +1,1 @@
+# Tradudor-de-Texto-com-API
